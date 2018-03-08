@@ -37,7 +37,7 @@ public class First {
         searchBox.sendKeys(Keys.chord(Keys.SHIFT, "space supernova"));
         searchBox.submit();
 //        driver.findElement(By.xpath("div.hdtb-mitem:nth-child(2) > a")).click();
-//        Thread.currentThread().sleep(2000L);
+        Thread.currentThread().sleep(2000L);
     }
 
 }
