@@ -70,5 +70,4 @@ public class Cookies {
         }
         driver.get("http://www.facebook.com");
     }
-
 }
